@@ -33,28 +33,28 @@ var quizQuestions = [{
     choiceB: "2. curly braces",
     choiceC: "3. parenthesis",
     choiceD: "4. sqaure brackets",
-    correctAnswer: "a"},
+    correctAnswer: "c"},
    {
     question: "Arrays in JavaScript can be used to store ____.",
     choiceA: "1. numbers and strings",
     choiceB: "2. other arrays",
     choiceC: "3. booleans",
     choiceD: "4. all of the above",
-    correctAnswer: "b"},
+    correctAnswer: "d"},
     {
-    question: "String values must be enclosed wiithin _____ when assigned to variables.",
+    question: "String values must be enclosed within _____ when assigned to variables.",
     choiceA: "1. commas",
     choiceB: "2. curly brackets",
     choiceC: "3. quotes",
     choiceD: "4. parenthesis",
-    correctAnswer: "d"},
+    correctAnswer: "c"},
     {
     question: "A very useful tool during development and debugging for printing content to debugger is:",
     choiceA: "1. JavaScript",
     choiceB: "2. terminal/bash",
     choiceC: "3. for loops",
     choiceD: "4. console.log",
-    correctAnswer: "a"},  
+    correctAnswer: "d"},  
     {
 
     }];
