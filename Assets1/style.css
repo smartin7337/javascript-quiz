@@ -13,7 +13,7 @@ p {
   color: black;
   text-shadow: 0.5px 0.5px white;
   text-align: center;
-  font-size: xx-large;
+  font-size: medium;
   font-family: sans-serif;
 }
 h3 {
@@ -40,10 +40,9 @@ button {
   border-radius: 15px;
   border: 6px double #ff006a;
   color: #000000;
-  text-align: center;
-  font-size: 14px;
-  padding: 20px;
-  width: 120px;
+  text-align: start;
+  padding: 30px;
+  width: 170px;
   margin-top: 3px;
 }
 
