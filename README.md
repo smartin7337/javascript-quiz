@@ -4,4 +4,4 @@ This assignment is a multiple choice timed quiz that is built using HTML, CSS, a
 
 ![Screenshot of my the quiz in progress.](https://github.com/smartin7337/javascript-quiz/blob/16c6d929da5b70eafff9d16f9f7833730671d7a0/JavaScriptQuiz.png)
 
-![Link to the repository.]()
+![Link to the repository.](https://smartin7337.github.io/javascript-quiz/)
