@@ -107,7 +107,7 @@ function showScore(){
     finalScoreEl.innerHTML = "You got " + score + " out of " + quizQuestions.length + " correct!";
 }
 
-// runs the highscore function that saves the array of high scores as a already saved in local stoage as a string when submit is clicked.
+// runs the highscore function that saves the array of high scores as a already saved in local storage as a string when submit is clicked.
 // adds the new user name and score into the array in local storage and shows highscore
 submitScoreBtn.addEventListener("click", function highscore(){
     
